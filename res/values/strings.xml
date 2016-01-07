@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    
+    <string name="app_name">Color Match</string>
+    <string name="app_title_contentDes">Display the title</string>
+    <string name="action_settings">Settings</string>
+    <string name="confirmation_menu">Menu</string>
+    <string name="confirmation_replay">Replay</string>
+    <string name="confirmation_exit">Exit</string>
+    <string name="menu_normal_game">Normal Game</string>
+    <string name="menu_how_play">How to Play</string>
+    <string name="menu_challenge_game">Challenge Game</string>
+    <string name="menu_high_scores">High Scores</string>
+    <string name="menu_back">Back</string>
+    <string name="str_gameover">Game Over!</string>
+    <string name="str_keepplaying">Keep Playing</string>
+    <string name="str_howtoplay">
+        Select the color that matches the text of the word. 
+        Every correct choice awards you 10 points. 
+        Incorrect selections subtract 5 points from your current score.</string>
+
+</resources>
